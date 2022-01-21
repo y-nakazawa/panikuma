@@ -1,6 +1,6 @@
 enchant(); // おまじない
 
-var LIMIT_TIME = 30;        // 無敵時間
+var LIMIT_TIME = 50;        // 無敵時間
 var ITEM_NUN = 10;          // アイテム数
 //    var ITEM_NUN = 1;          // アイテム数
 
